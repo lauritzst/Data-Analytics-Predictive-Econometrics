@@ -3,7 +3,7 @@ title: |
   | Data Analytics I: Predictive Econometrics
   | Self-Study
 author: |
-  | Lauritz Storch (21-607-015)
+  | Lauritz Storch
 date: "2022-02-14"
 output: 
   pdf_document
