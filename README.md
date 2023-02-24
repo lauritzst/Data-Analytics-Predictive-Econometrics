@@ -9,3 +9,5 @@ This course explains the difference between causal and predictive modeling and i
 1. Basic Econometrics Concepts
 2. Properties of Linear Estimators and Predictions
 3. Prediction vs. Causal Inference (Linear Regression) 4. Supervised Machine Learning Methods
+
+In 5 PC sessions the students apply the methods discussed in the lectures to data in order to sharpen their intuition and get an idea about the practical relevance of the methods. Students also have to solve problems at home and write an empirical term paper.
